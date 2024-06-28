@@ -7,25 +7,35 @@ This project showcases a dynamic Health Care Analytics Dashboard created using P
 🔍 Key Insights:
 
 💓 Heart Attack and Stroke Rates: 2.74% of patients have suffered a heart attack, while 1.73% have had a stroke.
+
 📊 Health Risks: 859 patients are at high or moderate health risk.
+
 📉 Health Distribution: Most patients are in 'Good' health, with a detailed count across different health statuses.
+
 👥 Demographic Insights: The 40-49 and 50-59 age groups have the highest number of patients with normal health.
+
 👨‍💼 Occupational Impact: Average weight by occupation, showing variations among different job types.
+
 🌏 Racial Breakdown: The highest number of overweight patients is found among the Chinese demographic.
 
 📋 Filters:
 Gender: Male, Female
+
 Health Risk Levels: All, Normal, Moderate, High, Critical
+
 Age Groups: All, <40, 40-49, 50-59, 60-69, 70+
 
 🔧 What I Learned:
 
 Interactive Filters: Enhancing user experience by allowing dynamic data exploration.
+
 Visualization Techniques: Utilizing various charts and graphs to present data insights clearly and effectively.
+
 Analytical Skills: Interpreting complex health data to provide actionable insights.
 
 # Tools and Technologies
 Power BI: For data visualization and dashboard creation.
+
 Advanced Data Visualization Techniques: To represent data effectively.
 
 # Usage
